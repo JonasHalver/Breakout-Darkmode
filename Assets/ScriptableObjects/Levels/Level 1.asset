@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab5f51e9a1f9fef48adeb85ab1a2d22b, type: 3}
+  m_Name: Level 1
+  m_EditorClassIdentifier: Assembly-CSharp::BrickLayoutConfigSO
+  _csvLayout: {fileID: 4900000, guid: 3c051084bfc357447aa61ea233407087, type: 3}
+  _leftPercent: 0.05
+  _rightPercent: 0.05
+  _topPercent: 0.08
+  _bottomPercent: 0.55
+  _fieldPadding: {x: 0.1, y: 0.1}
+  _spacing: {x: 0.25, y: 0.25}
